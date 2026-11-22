@@ -1,0 +1,348 @@
+Start testing: Nov 22 22:10 +06
+----------------------------------------------------------
+1/12 Testing: UserRepositoryTest.RegisterValidStudent
+1/12 Test: UserRepositoryTest.RegisterValidStudent
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=UserRepositoryTest.RegisterValidStudent" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"UserRepositoryTest.RegisterValidStudent" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = UserRepositoryTest.RegisterValidStudent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserRepositoryTest
+[ RUN      ] UserRepositoryTest.RegisterValidStudent
+[       OK ] UserRepositoryTest.RegisterValidStudent (8 ms)
+[----------] 1 test from UserRepositoryTest (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"UserRepositoryTest.RegisterValidStudent" end time: Nov 22 22:10 +06
+"UserRepositoryTest.RegisterValidStudent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/12 Testing: UserRepositoryTest.RejectDuplicateEmail
+2/12 Test: UserRepositoryTest.RejectDuplicateEmail
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=UserRepositoryTest.RejectDuplicateEmail" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"UserRepositoryTest.RejectDuplicateEmail" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = UserRepositoryTest.RejectDuplicateEmail
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserRepositoryTest
+[ RUN      ] UserRepositoryTest.RejectDuplicateEmail
+[       OK ] UserRepositoryTest.RejectDuplicateEmail (8 ms)
+[----------] 1 test from UserRepositoryTest (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"UserRepositoryTest.RejectDuplicateEmail" end time: Nov 22 22:10 +06
+"UserRepositoryTest.RejectDuplicateEmail" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/12 Testing: UserRepositoryTest.RejectInvalidRegistration
+3/12 Test: UserRepositoryTest.RejectInvalidRegistration
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=UserRepositoryTest.RejectInvalidRegistration" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"UserRepositoryTest.RejectInvalidRegistration" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = UserRepositoryTest.RejectInvalidRegistration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserRepositoryTest
+[ RUN      ] UserRepositoryTest.RejectInvalidRegistration
+[       OK ] UserRepositoryTest.RejectInvalidRegistration (0 ms)
+[----------] 1 test from UserRepositoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"UserRepositoryTest.RejectInvalidRegistration" end time: Nov 22 22:10 +06
+"UserRepositoryTest.RejectInvalidRegistration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/12 Testing: UserRepositoryTest.LoginWithCorrectPassword
+4/12 Test: UserRepositoryTest.LoginWithCorrectPassword
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=UserRepositoryTest.LoginWithCorrectPassword" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"UserRepositoryTest.LoginWithCorrectPassword" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = UserRepositoryTest.LoginWithCorrectPassword
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserRepositoryTest
+[ RUN      ] UserRepositoryTest.LoginWithCorrectPassword
+[       OK ] UserRepositoryTest.LoginWithCorrectPassword (8 ms)
+[----------] 1 test from UserRepositoryTest (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"UserRepositoryTest.LoginWithCorrectPassword" end time: Nov 22 22:10 +06
+"UserRepositoryTest.LoginWithCorrectPassword" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/12 Testing: UserRepositoryTest.RejectIncorrectPassword
+5/12 Test: UserRepositoryTest.RejectIncorrectPassword
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=UserRepositoryTest.RejectIncorrectPassword" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"UserRepositoryTest.RejectIncorrectPassword" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = UserRepositoryTest.RejectIncorrectPassword
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserRepositoryTest
+[ RUN      ] UserRepositoryTest.RejectIncorrectPassword
+[       OK ] UserRepositoryTest.RejectIncorrectPassword (8 ms)
+[----------] 1 test from UserRepositoryTest (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"UserRepositoryTest.RejectIncorrectPassword" end time: Nov 22 22:10 +06
+"UserRepositoryTest.RejectIncorrectPassword" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/12 Testing: ComplaintServiceTest.SubmitValidComplaint
+6/12 Test: ComplaintServiceTest.SubmitValidComplaint
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=ComplaintServiceTest.SubmitValidComplaint" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"ComplaintServiceTest.SubmitValidComplaint" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintServiceTest.SubmitValidComplaint
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintServiceTest
+[ RUN      ] ComplaintServiceTest.SubmitValidComplaint
+[       OK ] ComplaintServiceTest.SubmitValidComplaint (15 ms)
+[----------] 1 test from ComplaintServiceTest (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"ComplaintServiceTest.SubmitValidComplaint" end time: Nov 22 22:10 +06
+"ComplaintServiceTest.SubmitValidComplaint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/12 Testing: ComplaintServiceTest.RejectIncompleteComplaint
+7/12 Test: ComplaintServiceTest.RejectIncompleteComplaint
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=ComplaintServiceTest.RejectIncompleteComplaint" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"ComplaintServiceTest.RejectIncompleteComplaint" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintServiceTest.RejectIncompleteComplaint
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintServiceTest
+[ RUN      ] ComplaintServiceTest.RejectIncompleteComplaint
+[       OK ] ComplaintServiceTest.RejectIncompleteComplaint (0 ms)
+[----------] 1 test from ComplaintServiceTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ComplaintServiceTest.RejectIncompleteComplaint" end time: Nov 22 22:10 +06
+"ComplaintServiceTest.RejectIncompleteComplaint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/12 Testing: ComplaintServiceTest.UpdateComplaintStatus
+8/12 Test: ComplaintServiceTest.UpdateComplaintStatus
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=ComplaintServiceTest.UpdateComplaintStatus" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"ComplaintServiceTest.UpdateComplaintStatus" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintServiceTest.UpdateComplaintStatus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintServiceTest
+[ RUN      ] ComplaintServiceTest.UpdateComplaintStatus
+/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/tests/unitTest.cpp:207: Failure
+Expected: (student.id) != (-1), actual: -1 vs -1
+
+[  FAILED  ] ComplaintServiceTest.UpdateComplaintStatus (0 ms)
+[----------] 1 test from ComplaintServiceTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] ComplaintServiceTest.UpdateComplaintStatus
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Failed.
+"ComplaintServiceTest.UpdateComplaintStatus" end time: Nov 22 22:10 +06
+"ComplaintServiceTest.UpdateComplaintStatus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/12 Testing: ComplaintServiceTest.RejectFeedbackBeforeResolution
+9/12 Test: ComplaintServiceTest.RejectFeedbackBeforeResolution
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=ComplaintServiceTest.RejectFeedbackBeforeResolution" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"ComplaintServiceTest.RejectFeedbackBeforeResolution" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintServiceTest.RejectFeedbackBeforeResolution
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintServiceTest
+[ RUN      ] ComplaintServiceTest.RejectFeedbackBeforeResolution
+/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/tests/unitTest.cpp:240: Failure
+Expected: (student.id) != (-1), actual: -1 vs -1
+
+[  FAILED  ] ComplaintServiceTest.RejectFeedbackBeforeResolution (0 ms)
+[----------] 1 test from ComplaintServiceTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] ComplaintServiceTest.RejectFeedbackBeforeResolution
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Failed.
+"ComplaintServiceTest.RejectFeedbackBeforeResolution" end time: Nov 22 22:10 +06
+"ComplaintServiceTest.RejectFeedbackBeforeResolution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/12 Testing: ComplaintServiceTest.AcceptFeedbackAfterResolution
+10/12 Test: ComplaintServiceTest.AcceptFeedbackAfterResolution
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/unit_tests" "--gtest_filter=ComplaintServiceTest.AcceptFeedbackAfterResolution" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"ComplaintServiceTest.AcceptFeedbackAfterResolution" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintServiceTest.AcceptFeedbackAfterResolution
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintServiceTest
+[ RUN      ] ComplaintServiceTest.AcceptFeedbackAfterResolution
+/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/tests/unitTest.cpp:269: Failure
+Expected: (student.id) != (-1), actual: -1 vs -1
+
+[  FAILED  ] ComplaintServiceTest.AcceptFeedbackAfterResolution (0 ms)
+[----------] 1 test from ComplaintServiceTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] ComplaintServiceTest.AcceptFeedbackAfterResolution
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Failed.
+"ComplaintServiceTest.AcceptFeedbackAfterResolution" end time: Nov 22 22:10 +06
+"ComplaintServiceTest.AcceptFeedbackAfterResolution" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/12 Testing: ComplaintServiceTest.SubmitValidComplaint
+11/12 Test: ComplaintServiceTest.SubmitValidComplaint
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/CampusCareTests" "--gtest_filter=ComplaintServiceTest.SubmitValidComplaint" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"ComplaintServiceTest.SubmitValidComplaint" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintServiceTest.SubmitValidComplaint
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintServiceTest
+[ RUN      ] ComplaintServiceTest.SubmitValidComplaint
+[       OK ] ComplaintServiceTest.SubmitValidComplaint (3 ms)
+[----------] 1 test from ComplaintServiceTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"ComplaintServiceTest.SubmitValidComplaint" end time: Nov 22 22:10 +06
+"ComplaintServiceTest.SubmitValidComplaint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/12 Testing: ComplaintServiceTest.RejectEmptyComplaint
+12/12 Test: ComplaintServiceTest.RejectEmptyComplaint
+Command: "/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/CampusCareTests" "--gtest_filter=ComplaintServiceTest.RejectEmptyComplaint" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build
+"ComplaintServiceTest.RejectEmptyComplaint" start time: Nov 22 22:10 +06
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintServiceTest.RejectEmptyComplaint
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintServiceTest
+[ RUN      ] ComplaintServiceTest.RejectEmptyComplaint
+[       OK ] ComplaintServiceTest.RejectEmptyComplaint (2 ms)
+[----------] 1 test from ComplaintServiceTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"ComplaintServiceTest.RejectEmptyComplaint" end time: Nov 22 22:10 +06
+"ComplaintServiceTest.RejectEmptyComplaint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 22 22:10 +06

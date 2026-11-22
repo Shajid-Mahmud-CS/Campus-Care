@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/CampusCareTests.dir/link.d CMakeFiles/CampusCareTests.dir/tests/CampusCareTests.cpp.o -o CampusCareTests  lib/libgtest_main.a lib/libgmock.a lib/libgtest.a

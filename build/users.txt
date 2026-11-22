@@ -1,0 +1,6 @@
+1 "CampusCare Admin" "admin@campuscare.local" "3288171798096025883" "Admin"
+2 "Rahim" "rahim_test@test.com" "10676640704186402002" "Student"
+3 "Karim" "duplicate@test.com" "10676640704186402002" "Student"
+4 "Sakib" "sakib_test@test.com" "10676640704186402002" "Student"
+5 "Nabil" "nabil_test@test.com" "10676640704186402002" "Student"
+6 "Test Student" "student1@test.com" "10676640704186402002" "Student"

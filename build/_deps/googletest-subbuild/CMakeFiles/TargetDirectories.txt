@@ -1,0 +1,3 @@
+/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/mnt/c/Users/shazi/Documents/cse 3205 Software Engineering/lab 6 project/CampusCare_SE_Pack/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

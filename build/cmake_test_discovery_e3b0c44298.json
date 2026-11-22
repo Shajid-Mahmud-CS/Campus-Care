@@ -1,0 +1,68 @@
+{
+  "tests": 10,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "UserRepositoryTest",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "RegisterValidStudent",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 53
+        },
+        {
+          "name": "RejectDuplicateEmail",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 70
+        },
+        {
+          "name": "RejectInvalidRegistration",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 93
+        },
+        {
+          "name": "LoginWithCorrectPassword",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 110
+        },
+        {
+          "name": "RejectIncorrectPassword",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 134
+        }
+      ]
+    },
+    {
+      "name": "ComplaintServiceTest",
+      "tests": 5,
+      "testsuite": [
+        {
+          "name": "SubmitValidComplaint",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 156
+        },
+        {
+          "name": "RejectIncompleteComplaint",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 183
+        },
+        {
+          "name": "UpdateComplaintStatus",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 203
+        },
+        {
+          "name": "RejectFeedbackBeforeResolution",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 236
+        },
+        {
+          "name": "AcceptFeedbackAfterResolution",
+          "file": "\/mnt\/c\/Users\/shazi\/Documents\/cse 3205 Software Engineering\/lab 6 project\/CampusCare_SE_Pack\/tests\/unitTest.cpp",
+          "line": 265
+        }
+      ]
+    }
+  ]
+}

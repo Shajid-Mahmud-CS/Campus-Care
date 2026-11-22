@@ -1,0 +1,3 @@
+1 "CampusCare Admin" "admin@campuscare.local" "3288171798096025883" "Admin"
+2 "Shajid Mahmud" "shajid@gmail.com" "10676640704186402002" "Student"
+3 "faysal" "faysal@gmail.com" "10676640704186402002" "Student"

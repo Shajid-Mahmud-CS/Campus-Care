@@ -1,0 +1,16 @@
+ComplaintServiceTest.SubmitValidComplaint 2 0.0327174
+ComplaintServiceTest.RejectEmptyComplaint 2 0.0262688
+UserRepositoryTest.RegisterValidStudent 1 0.0459174
+UserRepositoryTest.RejectDuplicateEmail 1 0.0484772
+UserRepositoryTest.RejectInvalidRegistration 1 0.0411342
+UserRepositoryTest.LoginWithCorrectPassword 1 0.0489411
+UserRepositoryTest.RejectIncorrectPassword 1 0.0482826
+ComplaintServiceTest.SubmitValidComplaint 1 0.0572295
+ComplaintServiceTest.RejectIncompleteComplaint 1 0.0421725
+ComplaintServiceTest.UpdateComplaintStatus 0 0
+ComplaintServiceTest.RejectFeedbackBeforeResolution 0 0
+ComplaintServiceTest.AcceptFeedbackAfterResolution 0 0
+---
+ComplaintServiceTest.UpdateComplaintStatus
+ComplaintServiceTest.RejectFeedbackBeforeResolution
+ComplaintServiceTest.AcceptFeedbackAfterResolution

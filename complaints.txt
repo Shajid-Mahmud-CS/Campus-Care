@@ -1,0 +1,1 @@
+1 2 "Electrical" "Fan is not working" "Fan is not working properly. Need your attention" "Ruet building 2" "In Progress" "Shafiqul" "2026-11-22 20:03:41" "2026-11-22 20:05:12" -1 ""
