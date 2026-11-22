@@ -864,7 +864,7 @@ void studentMenu(
 
             cout << "\nAvailable categories:\n";
             cout << "Electrical, Water, Internet, "
-                 << "Classroom, Cleaning\n";
+                 << "Classroom, Cleaning, Hostel, Educational-Equipment\n";
 
             c.category = input("Category: ");
             c.title = input("Title: ");
